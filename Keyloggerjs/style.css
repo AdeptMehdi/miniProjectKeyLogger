@@ -1,0 +1,19 @@
+
+
+
+.form-login{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px solid red;
+    width: auto;
+    padding: 5px;
+}
+
+
+.form-holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
